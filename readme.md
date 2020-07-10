@@ -8,6 +8,6 @@ The various models that were implemented include: <br>
 2) CNN + RNN + TimeDistributed Dense
 3) Bidirectional RNN + TimeDistributed Dense
 4) RNN + TimeDistributed Dense
-5) Vanilla RNN
+5) Vanilla RNN <br>
 (List is presented in decrasing order of validation accuracy) <br><br>
 *[Project](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892) done as part of Udacity Natural Language Processing Nanodegree Program*
